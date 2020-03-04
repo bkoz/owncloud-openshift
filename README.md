@@ -6,7 +6,7 @@ The `oc whoami --show-console` should help.
 
 Create an OpenShift project.
 ```
-oc new-project owncloud
+oc new-project myproj
 ```
 
 ### Ephemeral 
