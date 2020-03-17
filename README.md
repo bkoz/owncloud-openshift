@@ -21,7 +21,7 @@ oc new-app -p OWNCLOUD_PUBLIC_DOMAIN=owncloud.apps.shared-rhpds.rhpds.openshift.
 Pod storage requirements: 
 - mariadb (10Gi)
 - redis (1Gi)
-- owncloud: Set by `OWNCLOUD_VOLUME_CAPACITY` parameter  
+- owncloud (10Gi)   
 
 Example
 
